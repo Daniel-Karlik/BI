@@ -1,2 +1,2 @@
 # BI
-repo for Business Intelligence lectures 
+Repository for Business Intelligence lectures 
